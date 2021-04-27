@@ -1,0 +1,13 @@
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.exe
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.deps.json
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.json
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.runtimeconfig.dev.json
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\bin\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.csprojAssemblyReference.cache
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfoInputs.cache
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.AssemblyInfo.cs
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.dll
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.pdb
+C:\Users\Zus_1\source\repos\ejemplo\ejemplo\obj\Debug\netcoreapp3.1\ejemplo.genruntimeconfig.cache
